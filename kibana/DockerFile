@@ -1,3 +1,0 @@
-FROM docker.elastic.co/kibana/kibana:7.17.10
-ENV ELASTICSEARCH_HOSTS=https://<railway-elasticsearch>.up.railway.app:9200
-EXPOSE 5601
